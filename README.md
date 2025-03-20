@@ -50,7 +50,11 @@ Este proyecto explora el desarrollo de software mediante plataformas **Low-Code*
 ## 📌 Contribuciones
 Si deseas contribuir a este trabajo, puedes hacerlo a través de **pull requests** o compartiendo nuevas ideas en los **issues** del repositorio.
 
----
+## 📬 Contacto
+Si tienes dudas, sugerencias o simplemente quieres conectar conmigo, puedes encontrarme en:
+- 📧 Email: javier.manzanooliveros@adaits.es
+- 🐦 Twitter: https://x.com/JManzanoO30
+- 💼 LinkedIn: https://www.linkedin.com/in/javier-manzano-410564172
 
 ¡Gracias por revisar este trabajo! 🚀
-
+---
