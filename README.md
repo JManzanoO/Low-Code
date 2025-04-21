@@ -21,14 +21,9 @@ Este proyecto explora el desarrollo de software mediante plataformas **Low-Code*
 ## 📂 Estructura del Proyecto
 ```
 📂 Trabajo_Low_Code
- ├── 📜 Documentación.pdf
+ ├── 📜 Canva_LOW-CODE.pdf (canva)
  ├── 📜 README.md (este archivo)
- ├── 📂 Ejemplo_Practico_NodeRED
- │   ├── flow.json
- │   ├── instrucciones.md
- ├── 📂 Recursos
- │   ├── tutoriales.md
- │   ├── bibliografía.txt
+ ├── 📜 Trabajo_Low-Code_Programacion.pdf
 ```
 
 ## 🔥 Ejemplo Práctico: Obtención del Clima con Node-RED
